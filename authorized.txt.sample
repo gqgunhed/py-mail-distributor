@@ -1,0 +1,8 @@
+# Sample file
+# with a list fo authorized senders
+# send1@example.com
+# sender2@nowhere.org
+# sender3@nonexistent.net
+#
+# Just add your authorized sender below
+# one email-adress per line
