@@ -1,0 +1,11 @@
+# sample configuration file
+# for the distribution list
+#
+# all email-addresses in this list will receive the incoming
+# and modified email message
+#
+# fields are separated by ";"
+# sender1@nowhere.org;mapped1@example.com;John Doe
+# info@nowhere.org;mapped.email@exmaple.com;Info List bla bla
+#
+# add your email-addresses below
