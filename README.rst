@@ -11,6 +11,8 @@ Python script to help distribute our internal email newsletter to a list of reci
 * Hide all other recipients (list is file-based) in BCC
 * Works with text/plain and MIMEMultipart messages (keeps attachments)
 
+See mail_forwarder.rst for more information about the script like TODOs, etc.
+
 Mail Dumper
 ===========
 
